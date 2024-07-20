@@ -1,0 +1,60 @@
+.leaderboard {
+    margin: 20px auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 600px;
+    
+    background: #eee8e8;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(98, 93, 93, 0.1);
+    border-top: 5px solid #4b79a1;
+  }
+  
+  .leaderboard h2 {
+    margin-bottom: 20px;
+    color: #4ea14b;
+    text-align: center;
+  }
+  
+  .leaderboard ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .leaderboard li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    transition: background 0.3s;
+  }
+  
+  .leaderboard li:nth-child(even) {
+    background: #79b6f2;
+    border-radius: 10px;
+  }
+  
+  .leaderboard li:hover {
+    background: #83caeb;
+    border-radius: 10px;
+  }
+  
+  .leaderboard span {
+    font-size: 1.1em;
+  }
+  
+  .player-info {
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #a14b80;
+    background-color: #a7e2ea;
+    border-radius: 5px;
+  }
+  
+  .player-info span {
+    font-size: 1.1em;
+  }
