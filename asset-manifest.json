@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anjalisingh2498/github.io/LeaderBoardProject/static/css/main.d16ec30c.css",
+    "main.js": "/anjalisingh2498/github.io/LeaderBoardProject/static/js/main.c5364dc7.js",
+    "static/js/453.0c408937.chunk.js": "/anjalisingh2498/github.io/LeaderBoardProject/static/js/453.0c408937.chunk.js",
+    "index.html": "/anjalisingh2498/github.io/LeaderBoardProject/index.html",
+    "main.d16ec30c.css.map": "/anjalisingh2498/github.io/LeaderBoardProject/static/css/main.d16ec30c.css.map",
+    "main.c5364dc7.js.map": "/anjalisingh2498/github.io/LeaderBoardProject/static/js/main.c5364dc7.js.map",
+    "453.0c408937.chunk.js.map": "/anjalisingh2498/github.io/LeaderBoardProject/static/js/453.0c408937.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16ec30c.css",
+    "static/js/main.c5364dc7.js"
+  ]
+}
